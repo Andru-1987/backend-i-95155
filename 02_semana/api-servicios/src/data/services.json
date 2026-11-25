@@ -1,0 +1,74 @@
+[
+  {
+    "id": 2,
+    "name": "Manicura",
+    "description": "Manicura completa con esmaltado",
+    "duration": 45,
+    "price": 4500,
+    "category": "Estetica",
+    "available": true
+  },
+  {
+    "id": 3,
+    "name": "Masaje descontracturante",
+    "description": "Sesion de masaje corporal de 60 minutos",
+    "duration": 60,
+    "price": 8000,
+    "category": "Bienestar",
+    "available": false
+  },
+  {
+    "id": 2,
+    "name": "Manicura v2",
+    "description": "Manicura completa con esmaltado",
+    "duration": 45,
+    "price": 4500,
+    "category": "Estetica",
+    "available": true
+  },
+  {
+    "name": "Corte de pelo alta gama",
+    "description": "Sesion que lleva 20 mins",
+    "duration": 29,
+    "price": 20000,
+    "category": "Bienestar",
+    "available": true,
+    "id": 5
+  },
+  {
+    "name": "Corte de pelo alta gama",
+    "description": "Sesion que lleva 20 mins",
+    "duration": 29,
+    "price": 20000,
+    "category": "Bienestar",
+    "available": true,
+    "id": 6
+  },
+  {
+    "name": "Corte de pelo alta gama",
+    "description": "Sesion que lleva 20 mins",
+    "duration": 29,
+    "price": 20000,
+    "category": "HairCut",
+    "available": true,
+    "id": 9
+  },
+  {
+    "name": "Corte de pelo alta gama",
+    "description": "Sesion que lleva 20 mins",
+    "duration": 29,
+    "price": 20000,
+    "category": "HairCut",
+    "available": true,
+    "id": 10
+  },
+  {
+    "name": "Clase de piano",
+    "description": "Clase de piano para adultos",
+    "duration": 60,
+    "price": 400,
+    "category": "musica",
+    "available": true,
+    "id": 11
+  }
+]
